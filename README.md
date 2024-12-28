@@ -148,7 +148,8 @@ CodeDebugger/
 3. Integrate advanced AI models for deeper logical analysis.
 
 ---
-
+- * LinkedIn : https://www.linkedin.com/in/thekartikeyamishra/
+ ---
 ## Acknowledgments
 
 - **Pylint**: For static code analysis.
